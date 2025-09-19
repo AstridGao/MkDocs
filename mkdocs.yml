@@ -4,11 +4,11 @@ site_description: 分享免费软件和有趣项目
 nav:
   - 首页: index.md
   - 听歌软件:
-    - AlgerMusicPlayer: Music/AlgerMusicPlayer/AlgerMusicPlayer.md
-    - Listen 1: Music/Listen 1/Listen 1.md
-    - LX Music: Music/LX Music/LX Music.md
-    - MoeKoe Music: Music/MoeKoe Music/MoeKoe Music.md
-    - YesPlayMusic: Music/YesPlayMusic/YesPlayMusic.md
+    - AlgerMusicPlayer: Music/AlgerMusicPlayer.md
+    - Listen 1: Music/Listen 1.md
+    - LX Music: Music/LX Music.md
+    - MoeKoe Music: Music/MoeKoe Music.md
+    - YesPlayMusic: Music/YesPlayMusic.md
 theme:
   name: material
   features:
