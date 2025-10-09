@@ -12,6 +12,8 @@ Readest是一款现代开源的电子书阅读器。
 
 ### <font color="#9b59b6">下载方式</font>
 
+提示：软件支持 `Windows`、`Linux`、`macOS` 、`Android` 平台。
+
 #### <font color="#3498db">1、官网下载</font>
 
 网址：https://readest.com/
