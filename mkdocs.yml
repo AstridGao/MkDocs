@@ -9,6 +9,8 @@ nav:
     - LX Music: Music/LX Music.md
     - MoeKoe Music: Music/MoeKoe Music.md
     - YesPlayMusic: Music/YesPlayMusic.md
+  - 阅读软件:
+    - Readest: Read/Readest.md
 theme:
   name: material
   features:
