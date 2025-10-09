@@ -22,7 +22,7 @@ MoeKoe Music是一款开源、简洁、高颜值的跨平台音乐播放器。
 
 ### <font color="#9b59b6">下载方式</font>
 
-提示：软件支持 `Windows`、`Linux`、`macOS` 平台。百度网盘和123云盘提供的是v1.5.0版本。
+提示：软件支持 `Windows`、`Linux`、`macOS` 平台。
 
 #### <font color="#3498db">1、官网下载</font>
 

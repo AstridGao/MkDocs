@@ -18,6 +18,8 @@ YesPlayMusic是一款免费、开源、高颜值的第三方网易云播放器�
 
 ### <font color="#9b59b6">下载方式</font>
 
+提示：软件支持 `Windows`、`Linux`、`macOS` 平台。
+
 #### <font color="#3498db">1、GitHub下载</font>
 
 项目地址：https://github.com/qier222/YesPlayMusic
