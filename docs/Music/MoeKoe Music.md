@@ -35,3 +35,7 @@ MoeKoe Music是一款开源、简洁、高颜值的跨平台音乐播放器。
 #### <font color="#3498db">3、123云盘下载</font>
 
 链接：https://www.123865.com/s/KQzCTd-x1WGh
+
+#### <font color="#3498db">4、Web在线使用</font>
+
+网址：https://web.readest.com/
