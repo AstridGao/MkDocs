@@ -12,6 +12,8 @@ nav:
   - 阅读软件:
     - Readest: Read/Readest.md
     - Anx Reader: Read/Anx Reader.md
+    - Koodo Reader: Read/Koodo Reader.md
+    - 阅读: Read/阅读.md
 theme:
   name: material
   features:
