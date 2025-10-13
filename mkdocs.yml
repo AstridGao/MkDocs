@@ -17,6 +17,8 @@ nav:
   - 追番软件:
     - omofun: Anime/omofun.md
     - Mi动漫: Anime/Mi动漫.md
+  - 思维导图: 
+    - MindLine: MindMap/MindLine.md
 theme:
   name: material
   features:
