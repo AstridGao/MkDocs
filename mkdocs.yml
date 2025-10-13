@@ -14,6 +14,8 @@ nav:
     - Anx Reader: Read/Anx Reader.md
     - Koodo Reader: Read/Koodo Reader.md
     - 阅读: Read/阅读.md
+  - 追番软件:
+    - omofun: Anime/omofun.md
 theme:
   name: material
   features:
