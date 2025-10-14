@@ -26,7 +26,7 @@ MindLine是一款快速高效制作思维导图工具。
 
 ### <font color="#9b59b6">下载方式</font>
 
-提示：软件支持 `Windows`、`Linux`、`macOS` 、`Android`平台。
+提示：软件支持 `Windows`、`iOS`、`macOS` 、`Android`平台。
 
 #### <font color="#3498db">1、官网下载</font>
 

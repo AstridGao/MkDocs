@@ -19,6 +19,7 @@ nav:
     - Mi动漫: Anime/Mi动漫.md
   - 思维导图: 
     - MindLine: MindMap/MindLine.md
+    - SimpleMindMap: MindMap/SimpleMindMap.md
 theme:
   name: material
   features:
