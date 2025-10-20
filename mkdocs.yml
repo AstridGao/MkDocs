@@ -20,6 +20,8 @@ nav:
   - 思维导图: 
     - MindLine: MindMap/MindLine.md
     - SimpleMindMap: MindMap/SimpleMindMap.md
+  - 网站分享:
+    - 壁纸: Website/壁纸.md
 theme:
   name: material
   features:
