@@ -22,6 +22,7 @@ nav:
     - SimpleMindMap: MindMap/SimpleMindMap.md
   - 网站分享:
     - 壁纸: Website/壁纸.md
+    - PPT模板: Website/PPT模板.md
 theme:
   name: material
   features:
