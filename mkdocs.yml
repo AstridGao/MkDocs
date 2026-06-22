@@ -23,6 +23,7 @@ nav:
   - 网站分享:
     - 壁纸: Website/壁纸.md
     - PPT模板: Website/PPT模板.md
+    - 编程学习: Website/编程.md
 theme:
   name: material
   features:
